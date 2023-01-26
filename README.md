@@ -1,16 +1,18 @@
-# flutter_better_structure
+# Flutter better structure
 
-A new Flutter project.
+Adaptation de la structure d'un projet Flutter générée par défaut avec la 
+commande `flutter create <nom_du_projet`.
 
-## Getting Started
+--
 
-This project is a starting point for a Flutter application.
+<img src="https://sherpa.one/images/sherpa-logotype.png" width="120px">
 
-A few resources to get you started if this is your first Flutter project:
+__Alexandre Leroux__
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+_Enseignant / Formateur_<br>
+_Développeur logiciel web & mobile_
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nancy (Grand Est, France)
+
+https://sherpa.one
+
